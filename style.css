@@ -13,7 +13,7 @@
 
     width: 100vw;
     height: 100vh;
-    background-image: url(images/background.png);
+    background-image: url(images/space.jpg);
 
     background-position: center;
     background-size: cover;
@@ -114,7 +114,7 @@ ul {
     .container {
         width: 100vw;
         height: 100vh;
-        background-image: url(/images/background.png);
+        background-image: url(/images/space.jpg);
         background-position: center;
         background-size: cover;
         padding: 0 10px;
