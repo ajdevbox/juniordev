@@ -3,7 +3,7 @@ const hours = document.getElementById("hours");
 const minutes = document.getElementById("minutes");
 const seconds = document.getElementById("seconds");
 
-let launchDate = new Date("Aug 24, 2023 00:00:00").getTime();
+let launchDate = new Date("Oct 24, 2023 00:00:00").getTime();
 
 let tracking = setInterval(function () {
   let current = new Date().getTime();
